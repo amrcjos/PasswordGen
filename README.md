@@ -26,7 +26,7 @@ PasswordGen uses Python's `secrets` module to generate cryptographically secure 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/PasswordGen.git
+git clone https://github.com/amrcjos/PasswordGen.git
 ```
 
 Navigate to the project directory:
